@@ -7,8 +7,8 @@ package prácticaunidad3;
 
 /**
  *
- * @author Araceli
- * @version 2
+ * @author Araceli Rodríguez
+ * @version 3
  */
 public class CCuenta {
 
